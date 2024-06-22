@@ -1,0 +1,1 @@
+# IN This try, we added GAN (50-50 percentage) as a replacement of SMOTE and used Clustering for categorizing more inot our model. Two models (XGBoost) have been developed for two clusters the results are 61% and 66% for clusters (one cluster is significantly greater than the other)
