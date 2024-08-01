@@ -1,0 +1,2 @@
+In this try, we have used a deep approach called Variational Auto Encoder which generates and balances data from an specific distrbution in comparison to GAN. Another change is that for clustering (which will be given to the model as a feature) we first 
+scale the data using MinMaxScaler. this approach is the opposite of the other versions where scaling is donbe after clustering and hope that changes the reuslt of clustering. 
